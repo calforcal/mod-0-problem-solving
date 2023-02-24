@@ -27,4 +27,4 @@ def capitalize(string)
     p result
 end
 
-capitalize("I am feeling very scared")
+capitalize("I HAVE MADE A METHOD THAT WILL CAPITALIZE THE FIRST CHARACTER OF EACH WORD")
